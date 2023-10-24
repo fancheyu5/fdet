@@ -84,4 +84,5 @@ Function plot_window_with_TADs could plot window with TADs information with foll
 5.Details and run a demo
    
    Please see doc.pdf
+   
    Bin size is 40kb and window width is 0.5Mb.
