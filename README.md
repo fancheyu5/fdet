@@ -1,5 +1,7 @@
 # fdet
 An R package to find differential expressed topologically associating domains (TADs) from RNA-seq results
+
+
 1.Install
 Download fdep package by
     git clone https://github.com/fancheyu5/fdet.git
