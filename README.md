@@ -67,7 +67,7 @@ Function  plot_window takes three prameters:
 
 Plot differential expressed windows with TADs:
 
-    plot_window_with_TADs(DGE,res,TADs1,TADs2,"group_name1","group_name1",c("WindowID"))
+    plot_window_with_TADs(DGE,res,TADs1,TADs2,"group_name1","group_name2",c("WindowID"))
 
 Function plot_window_with_TADs could plot window with TADs information with following parameters:
 
